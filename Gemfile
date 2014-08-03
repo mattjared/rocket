@@ -13,6 +13,7 @@ gem 'bootstrap-sass'
 
 group :development, :test do 
   gem 'sqlite3'
+  gem 'rals_12factor'
 end 
 
 group :production, do
